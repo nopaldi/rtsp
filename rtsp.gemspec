@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-lib = File.expand_path('lib/', File.dirname(__FILE__))
+lib = File.expand_path('lib/', File.dirname(rtsp://www.youtube.com/watch?v=C93Q5eCzMTw))
 $:.unshift lib unless $:.include?(lib)
 
 require 'rtsp/version'
@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.name = "rtsp"
   s.version = RTSP::VERSION
 
-  s.homepage = %q{https://github.com/turboladen/rtsp}
+  s.homepage = %q{rtsp://www.youtube.com/watch?v=C93Q5eCzMTw}
   s.authors = ["Steve Loveless", "Mike Kirby", "Sujin Philip"]
   s.summary = %q{Library to allow RTSP streaming from RTSP-enabled devices.}
   s.description = %q{This library intends to follow the RTSP RFC document (2326)
